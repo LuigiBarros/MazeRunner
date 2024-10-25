@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1729726134 source:c:\ufs\4° periodo\estrutura de dados ii\atividades\labirintobacktraking\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gconio.h"
+
+1677695038 c:\ufs\4° periodo\estrutura de dados ii\atividades\labirintobacktraking\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<termios.h>
+
